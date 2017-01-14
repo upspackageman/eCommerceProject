@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll.config
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.DAL.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Contracts.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\eCommerce.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.initial.resources
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.DAL\obj\Debug\eCommerce.DAL.Migrations.AddQuantity.resources

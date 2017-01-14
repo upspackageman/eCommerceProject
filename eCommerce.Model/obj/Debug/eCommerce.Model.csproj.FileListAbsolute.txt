@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\obj\Debug\eCommerce.Model.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Model.dll.config
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Model\bin\Debug\eCommerce.Contracts.pdb

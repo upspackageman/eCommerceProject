@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Modules.Voucher.MoneyOffItem\bin\Debug\eCommerce.Modules.Voucher.MoneyOffItem.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Modules.Voucher.MoneyOffItem\bin\Debug\eCommerce.Modules.Voucher.MoneyOffItem.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Modules.Voucher.MoneyOffItem\obj\Debug\eCommerce.Modules.Voucher.MoneyOffItem.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Modules.Voucher.MoneyOffItem\obj\Debug\eCommerce.Modules.Voucher.MoneyOffItem.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Modules.Voucher.MoneyOffItem\obj\Debug\eCommerce.Modules.Voucher.MoneyOffItem.pdb

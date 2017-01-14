@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Services.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Services.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Contracts.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.DAL.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Model.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Contracts.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.DAL.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\eCommerce.Model.pdb
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.dll
+c:\users\user\documents\visual studio 2015\Projects\eCommerce\eCommerce.Services\obj\Debug\eCommerce.Services.pdb
